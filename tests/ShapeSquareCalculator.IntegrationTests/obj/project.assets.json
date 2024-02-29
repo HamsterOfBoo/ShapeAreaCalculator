@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\TaskForMindbox\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
+      "projectUniqueName": "D:\\Repository\\ShapeAreaCalculator\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
       "projectName": "ShapeSquareCalculator.IntegrationTests",
-      "projectPath": "D:\\Repository\\TaskForMindbox\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
+      "projectPath": "D:\\Repository\\ShapeAreaCalculator\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\hamst\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\TaskForMindbox\\tests\\ShapeSquareCalculator.IntegrationTests\\obj\\",
+      "outputPath": "D:\\Repository\\ShapeAreaCalculator\\tests\\ShapeSquareCalculator.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hamst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5549,8 +5549,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {
-              "projectPath": "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj"
+            "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {
+              "projectPath": "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj"
             }
           }
         }

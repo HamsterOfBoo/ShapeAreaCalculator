@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i9OuDIWFH5jibq7yy1mv/rbMJwAq3CWaw6rTKWAflI7UBHLXvzKyPB4nSe25HPWSD9wDPqam+kuOy/YBUP8FSQ==",
+  "dgSpecHash": "yHnuBrk5ka4UHYASW2yfXIHgCAYraGzLCkJgm7U9s0kb/Uv0H3lYd8Fi04/pgvTRZO939+X+ApXC1L7z4HES6Q==",
   "success": true,
-  "projectFilePath": "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
+  "projectFilePath": "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

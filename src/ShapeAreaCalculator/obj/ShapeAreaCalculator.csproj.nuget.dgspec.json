@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {}
+    "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {
+    "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
+        "projectUniqueName": "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
         "projectName": "ShapeAreaCalculator",
-        "projectPath": "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
+        "projectPath": "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\ShapeAreaCalculator.csproj",
         "packagesPath": "C:\\Users\\hamst\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\TaskForMindbox\\src\\ShapeAreaCalculator\\obj\\",
+        "outputPath": "D:\\Repository\\ShapeAreaCalculator\\src\\ShapeAreaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamst\\AppData\\Roaming\\NuGet\\NuGet.Config",

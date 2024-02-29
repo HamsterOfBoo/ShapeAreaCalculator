@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MHbUvSIvVijfuSMeWSa//0UDpk83pFxdfMILDzpvdgPVSdAYangSUJLCNZZFY5n9kDG/JhDp71bRnSkxefrdQ==",
+  "dgSpecHash": "MzZosaLdihlGf5pzmcM/MLtEoBCTLrZ7bxHTcJ7eu+I24MW4y3WMxUznT9SpX1B2YSdKCFAEE9V2mgJqpKQ6NA==",
   "success": true,
-  "projectFilePath": "D:\\Repository\\TaskForMindbox\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
+  "projectFilePath": "D:\\Repository\\ShapeAreaCalculator\\tests\\ShapeSquareCalculator.IntegrationTests\\ShapeSquareCalculator.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamst\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\hamst\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
