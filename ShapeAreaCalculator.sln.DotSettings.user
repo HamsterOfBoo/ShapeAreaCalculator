@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c2a4c24c_002Dbbcc_002D4b7d_002D8436_002D59fd8d593331/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateCircleArea__Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;2AFF1660-7EE1-4569-AE68-23BDD724E979::net8.0::xUnit::ShapeSquareCalculator.UnitTests.TriangleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;2AFF1660-7EE1-4569-AE68-23BDD724E979::net8.0::xUnit::ShapeSquareCalculator.UnitTests.FactoryTests.CreateCalculator_Circle_RightImplementation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;2AFF1660-7EE1-4569-AE68-23BDD724E979::net8.0::xUnit::ShapeSquareCalculator.UnitTests.FactoryTests.CreateCalculator_Triangle_CorrectImplementation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;74426927-16BA-419D-BCEE-C6DC1F23569E::net8.0::xUnit::ShapeSquareCalculator.IntegrationTests.AreaCalculatorIntegrationTests.TriangleCalculator_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;74426927-16BA-419D-BCEE-C6DC1F23569E::net8.0::xUnit::ShapeSquareCalculator.IntegrationTests.AreaCalculatorIntegrationTests.CircleCalculator_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;74426927-16BA-419D-BCEE-C6DC1F23569E::net8.0::xUnit::ShapeSquareCalculator.IntegrationTests.AreaCalculatorIntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

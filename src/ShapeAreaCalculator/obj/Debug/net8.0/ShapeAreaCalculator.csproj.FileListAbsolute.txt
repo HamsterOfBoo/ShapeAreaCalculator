@@ -1,0 +1,11 @@
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.deps.json
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.dll
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\bin\Debug\net8.0\ShapeAreaCalculator.pdb
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfoInputs.cache
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.AssemblyInfo.cs
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.dll
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\refint\ShapeAreaCalculator.dll
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ShapeAreaCalculator.pdb
+D:\Repository\TaskForMindbox\src\ShapeAreaCalculator\obj\Debug\net8.0\ref\ShapeAreaCalculator.dll
